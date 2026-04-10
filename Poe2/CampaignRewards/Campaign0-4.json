@@ -3,7 +3,7 @@
     "id": 1,
     "title": "Act 1",
     "subtitle": "Ogham",
-    "note": "อ้างอิงจาก Mobalytics Campaign Loot Normal",
+    "note": "",
     "rows": [
       {
         "area": "ริมตลิ่ง",
@@ -358,7 +358,7 @@
     "id": 2,
     "title": "Act 2",
     "subtitle": "Vastiri / Keth",
-    "note": "อ้างอิงจาก Mobalytics Campaign Loot Normal",
+    "note": "",
     "rows": [
       {
         "area": "ชายแดนวาสตีรี",
@@ -807,7 +807,7 @@
         "check": "ซีคัวทัล ผู้พิทักษ์แกนวิญญาณ",
         "rewards": [
           {
-            "img": "",
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSkillGemBuff.webp?raw=true",
             "label": "หินพลังวิญญาณหยาบ (เวล 10)"
           }
         ],
@@ -837,12 +837,12 @@
             "label": "หินเสริมหยาบ (เลเวล 10)"
           },
           {
-            "img": "",
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/QuestItems/RenlysTools.webp?raw=true",
             "label": "ปลดล็อค - โต๊ะหลอม",
             "color": "#f6fa00"
           },
           {
-            "img": "",
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Currency/CurrencyAddEquipmentSocket.webp?raw=true",
             "label": "Artificer's Orb"
           }
         ],
@@ -882,15 +882,15 @@
         "check": "ทรัพย์สมบัติน่าฉงน",
         "rewards": [
           {
-            "img": "",
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/QuestItems/GoldIdol01.webp?raw=true",
             "label": "500 Gold: Golden Idol"
           },
           {
-            "img": "",
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/QuestItems/GoldIdol02.webp?raw=true",
             "label": "1000 Gold: Grand Idol"
           },
           {
-            "img": "",
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/QuestItems/GoldIdol03.webp?raw=true",
             "label": "1500 Gold: Glorious Idol"
           }
         ],
@@ -899,12 +899,13 @@
         }
       },
       {
-        "area": "Aggorat",
-        "check": "\"Blood Sacrifice\" Quest Reward",
+        "area": "แอ็กโกแรท",
+        "check": " แท่นสังเวยโลหิต",
         "rewards": [
           {
             "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/QuestItems/Skillbooks/BileSoakedTome.webp?raw=true",
-            "label": "แต้มพาสซีฟชุดอาวุธ 2 แต้ม"
+            "label": "แต้มพาสซีฟชุดอาวุธ 2 แต้ม",
+            "color": "#00f028"
           }
         ],
         "leagueRewards": {
