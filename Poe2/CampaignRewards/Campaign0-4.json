@@ -2,7 +2,7 @@
   {
     "id": 1,
     "title": "Act 1",
-    "subtitle": "Ogham",
+    "subtitle": "ฟหกฟกฟไกไก",
     "note": "Source: Mobalytics Campaign Loot Normal",
     "rows": [
       {
@@ -23,14 +23,14 @@
           "0-4": [
             {
               "img": "",
-              "label": "100000 Gold",
+              "label": "100000 ทอง",
               "color": "#ff0000"
             }
           ]
         }
       },
       {
-        "area": "Mysterious Campsite",
+        "area": "Mysterious Campฟหกฟหกหsite",
         "check": "Chest",
         "rewards": [
           {
