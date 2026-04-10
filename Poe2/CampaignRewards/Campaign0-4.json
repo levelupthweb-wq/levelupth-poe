@@ -203,7 +203,7 @@
         "rewards": [
           {
             "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSkillGem.webp?raw=true",
-            "label": "หินสกิลหยาบ (Level 4)"
+            "label": "หินสกิลหยาบ (เวล 4)"
           }
         ],
         "leagueRewards": {
@@ -225,16 +225,17 @@
         }
       },
       {
-        "area": "Freythorn",
-        "check": "BOSS - The King in the Mists",
+        "area": "ชายคาเฟรย์ธอร์น",
+        "check": "ฆ่าบอส - ราชันในม่านหมอก",
         "rewards": [
           {
-            "img": "",
-            "label": "+30 to Maximum Spirit"
+            "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/QuestItems/CrystalSkull_Spirit_01a.webp",
+            "label": "พลังวิญญาณ +30",
+            "color": "#ff7300"
           },
           {
-            "img": "",
-            "label": "Uncut Spirit Gem (Level 4)"
+            "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/Gems/UncutSkillGemBuff.webp",
+            "label": "หินพลังวิญญาณหยาบ (เวล 4)"
           }
         ],
         "leagueRewards": {
@@ -242,12 +243,13 @@
         }
       },
       {
-        "area": "Ogham Farmlands",
-        "check": "Una's Lute",
+        "area": "ถิ่นเพาะปลูกอ็อกแฮม",
+        "check": "กระท่อมของอูน่า ",
         "rewards": [
           {
             "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/QuestItems/Skillbooks/BileSoakedTome.webp?raw=true",
-            "label": "Book of Specialisation (+2 Weapon Set Skill Points)"
+            "label": "แต้มพาสซีฟชุดอาวุธ 2 แต้ม",
+            "color": "#00f028"
           }
         ],
         "leagueRewards": {
@@ -255,12 +257,12 @@
         }
       },
       {
-        "area": "Ogham Farmlands",
-        "check": "Crop Circle",
+        "area": "ถิ่นเพาะปลูกอ็อกแฮม",
+        "check": "วงต้นกล้าเตียนโล่ง",
         "rewards": [
           {
             "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSkillGem.webp?raw=true",
-            "label": "Uncut Skill Gem (Level 4)"
+            "label": "หินสกิลหยาบ (เวล 4)"
           }
         ],
         "leagueRewards": {
@@ -268,12 +270,13 @@
         }
       },
       {
-        "area": "Ogham Village",
-        "check": "Smithing Tools",
+        "area": "หมู่บ้านอ็อกแฮม",
+        "check": "โรงเหล็กของเรนลีย์",
         "rewards": [
           {
-            "img": "",
-            "label": "Unlocks Salvage Bench"
+            "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/QuestItems/RenlysTools.webp",
+            "label": "ปลดล็อคระบบ - โต๊ะรื้อ",
+            "color": "#f6fa00"
           }
         ],
         "leagueRewards": {
@@ -281,16 +284,16 @@
         }
       },
       {
-        "area": "Ogham Village",
-        "check": "Blacksmith's Chest",
+        "area": "หมู่บ้านอ็อกแฮม",
+        "check": "หาหีบช่างเหล็กแล้วเก็บ อักขระเปล่า",
         "rewards": [
           {
-            "img": "",
+            "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/Currency/CurrencyAddEquipmentSocket.webp",
             "label": "Artificer's Orb"
           },
           {
-            "img": "",
-            "label": "Blank Rune (Lesser)"
+            "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/Currency/Runes/AccuracyRuneTier1.webp",
+            "label": "อักขระ (Lesser)"
           }
         ],
         "leagueRewards": {
@@ -298,12 +301,13 @@
         }
       },
       {
-        "area": "Ogham Village",
-        "check": "BOSS - The Executioner",
+        "area": "หมู่บ้านอ็อกแฮม",
+        "check": "ฆ่าบอส - เพชฌฆาต ",
         "rewards": [
           {
             "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSupportGem.webp?raw=true",
-            "label": "Uncut Support Gem (Level 1)"
+            "label": "หินเสริมหยาบ (เลเวล 1)",
+            "color": "#00e2e6"
           }
         ],
         "leagueRewards": {
@@ -311,12 +315,12 @@
         }
       },
       {
-        "area": "Ogham Village",
-        "check": "Save Leitis",
+        "area": "หมู่บ้านอ็อกแฮม",
+        "check": "ช่วยเลทิส",
         "rewards": [
           {
             "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSkillGem.webp?raw=true",
-            "label": "Uncut Skill Gem (Level 5)"
+            "label": "หินสกิลหยาบ (เวล 5)"
           }
         ],
         "leagueRewards": {
@@ -324,12 +328,13 @@
         }
       },
       {
-        "area": "The Manor Ramparts",
-        "check": "The Gallows",
+        "area": "ปราการคฤหาสน์",
+        "check": "ตะแลงแกง",
         "rewards": [
           {
             "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSupportGem.webp?raw=true",
-            "label": "Uncut Support Gem (Level 1)"
+            "label": "หินเสริมหยาบ (เลเวล 1)",
+            "color": "#00e2e6"
           }
         ],
         "leagueRewards": {
@@ -337,12 +342,13 @@
         }
       },
       {
-        "area": "Ogham Manor",
-        "check": "BOSS - Candlemass, the Living Rite",
+        "area": "คฤหาสน์อ็อกแฮม",
+        "check": "ฆ่าบอส - พิธีกรรมเดินดิน",
         "rewards": [
           {
-            "img": "",
-            "label": "+20 to Maximum Life"
+            "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/QuestItems/MudBurrowerGift.webp",
+            "label": "+20 พลังชีวิต",
+            "color": "#00f028"
           }
         ],
         "leagueRewards": {
