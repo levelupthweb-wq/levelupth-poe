@@ -3,27 +3,28 @@
     "id": 1,
     "title": "Act 1",
     "subtitle": "Ogham",
-    "note": "อ้างอิงจาก Mobalytics Campaign Loot Normal",
+    "note": "Source: Mobalytics Campaign Loot Normal",
     "rows": [
       {
         "area": "Clearfell",
         "check": "BOSS - Beira of the Rotten Pack",
         "preview": {
-          "type": "youtube",
-          "src": "https://www.youtube.com/watch?v=Go4ykizk_Uo"
+          "text": "กฟหกฟกกหฟกกหกกฟหกก",
+          "youtube": "ฟหกหฟกหฟกกฟหหฟก",
+          "image": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/Belts/Belt6Unique2.webp"
         },
         "rewards": [
           {
-            "img": "https://raw.githubusercontent.com/levelupthweb-wq/levelupth-poe/main/Poe2/Art/2DItems/Belts/Uniques/Headhunter.webp",
+            "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/QuestItems/CrystalGoddess.webp",
             "label": "+10% Cold Resistance"
           }
         ],
         "leagueRewards": {
-          "0.1": [],
-          "0.2": [
+          "0-4": [
             {
               "img": "",
-              "label": "100000 Gold"
+              "label": "100000 Gold",
+              "color": "#ff0000"
             }
           ]
         }
@@ -38,8 +39,7 @@
           }
         ],
         "leagueRewards": {
-          "0.1": [],
-          "0.2": []
+          "0-4": []
         }
       },
       {
@@ -60,8 +60,7 @@
           }
         ],
         "leagueRewards": {
-          "0.1": [],
-          "0.2": []
+          "0-4": []
         }
       },
       {
@@ -74,8 +73,7 @@
           }
         ],
         "leagueRewards": {
-          "0.1": [],
-          "0.2": []
+          "0-4": []
         }
       },
       {
@@ -92,8 +90,7 @@
           }
         ],
         "leagueRewards": {
-          "0.1": [],
-          "0.2": []
+          "0-4": []
         }
       },
       {
@@ -106,8 +103,7 @@
           }
         ],
         "leagueRewards": {
-          "0.1": [],
-          "0.2": []
+          "0-4": []
         }
       },
       {
@@ -120,8 +116,7 @@
           }
         ],
         "leagueRewards": {
-          "0.1": [],
-          "0.2": []
+          "0-4": []
         }
       },
       {
@@ -134,8 +129,7 @@
           }
         ],
         "leagueRewards": {
-          "0.1": [],
-          "0.2": []
+          "0-4": []
         }
       },
       {
@@ -148,8 +142,7 @@
           }
         ],
         "leagueRewards": {
-          "0.1": [],
-          "0.2": []
+          "0-4": []
         }
       },
       {
@@ -162,8 +155,7 @@
           }
         ],
         "leagueRewards": {
-          "0.1": [],
-          "0.2": []
+          "0-4": []
         }
       },
       {
@@ -176,8 +168,7 @@
           }
         ],
         "leagueRewards": {
-          "0.1": [],
-          "0.2": []
+          "0-4": []
         }
       },
       {
@@ -190,8 +181,7 @@
           }
         ],
         "leagueRewards": {
-          "0.1": [],
-          "0.2": []
+          "0-4": []
         }
       },
       {
@@ -204,8 +194,7 @@
           }
         ],
         "leagueRewards": {
-          "0.1": [],
-          "0.2": []
+          "0-4": []
         }
       },
       {
@@ -222,8 +211,7 @@
           }
         ],
         "leagueRewards": {
-          "0.1": [],
-          "0.2": []
+          "0-4": []
         }
       },
       {
@@ -236,8 +224,7 @@
           }
         ],
         "leagueRewards": {
-          "0.1": [],
-          "0.2": []
+          "0-4": []
         }
       },
       {
@@ -250,8 +237,7 @@
           }
         ],
         "leagueRewards": {
-          "0.1": [],
-          "0.2": []
+          "0-4": []
         }
       },
       {
@@ -264,8 +250,7 @@
           }
         ],
         "leagueRewards": {
-          "0.1": [],
-          "0.2": []
+          "0-4": []
         }
       },
       {
@@ -282,8 +267,7 @@
           }
         ],
         "leagueRewards": {
-          "0.1": [],
-          "0.2": []
+          "0-4": []
         }
       },
       {
@@ -296,8 +280,7 @@
           }
         ],
         "leagueRewards": {
-          "0.1": [],
-          "0.2": []
+          "0-4": []
         }
       },
       {
@@ -310,8 +293,7 @@
           }
         ],
         "leagueRewards": {
-          "0.1": [],
-          "0.2": []
+          "0-4": []
         }
       },
       {
@@ -324,8 +306,7 @@
           }
         ],
         "leagueRewards": {
-          "0.1": [],
-          "0.2": []
+          "0-4": []
         }
       },
       {
@@ -338,8 +319,7 @@
           }
         ],
         "leagueRewards": {
-          "0.1": [],
-          "0.2": []
+          "0-4": []
         }
       }
     ]
@@ -348,7 +328,7 @@
     "id": 2,
     "title": "Act 2",
     "subtitle": "Vastiri / Keth",
-    "note": "อ้างอิงจาก Mobalytics Campaign Loot Normal",
+    "note": "Source: Mobalytics Campaign Loot Normal",
     "rows": [
       {
         "area": "Vastiri Outskirts",
@@ -360,8 +340,7 @@
           }
         ],
         "leagueRewards": {
-          "0.1": [],
-          "0.2": []
+          "0-4": []
         }
       },
       {
@@ -374,8 +353,7 @@
           }
         ],
         "leagueRewards": {
-          "0.1": [],
-          "0.2": []
+          "0-4": []
         }
       },
       {
@@ -388,8 +366,7 @@
           }
         ],
         "leagueRewards": {
-          "0.1": [],
-          "0.2": []
+          "0-4": []
         }
       },
       {
@@ -402,8 +379,7 @@
           }
         ],
         "leagueRewards": {
-          "0.1": [],
-          "0.2": []
+          "0-4": []
         }
       },
       {
@@ -416,8 +392,7 @@
           }
         ],
         "leagueRewards": {
-          "0.1": [],
-          "0.2": []
+          "0-4": []
         }
       },
       {
@@ -430,8 +405,7 @@
           }
         ],
         "leagueRewards": {
-          "0.1": [],
-          "0.2": []
+          "0-4": []
         }
       },
       {
@@ -444,8 +418,7 @@
           }
         ],
         "leagueRewards": {
-          "0.1": [],
-          "0.2": []
+          "0-4": []
         }
       },
       {
@@ -458,8 +431,7 @@
           }
         ],
         "leagueRewards": {
-          "0.1": [],
-          "0.2": []
+          "0-4": []
         }
       },
       {
@@ -472,8 +444,7 @@
           }
         ],
         "leagueRewards": {
-          "0.1": [],
-          "0.2": []
+          "0-4": []
         }
       },
       {
@@ -486,8 +457,7 @@
           }
         ],
         "leagueRewards": {
-          "0.1": [],
-          "0.2": []
+          "0-4": []
         }
       },
       {
@@ -508,8 +478,7 @@
           }
         ],
         "leagueRewards": {
-          "0.1": [],
-          "0.2": []
+          "0-4": []
         }
       },
       {
@@ -522,8 +491,7 @@
           }
         ],
         "leagueRewards": {
-          "0.1": [],
-          "0.2": []
+          "0-4": []
         }
       },
       {
@@ -540,8 +508,7 @@
           }
         ],
         "leagueRewards": {
-          "0.1": [],
-          "0.2": []
+          "0-4": []
         }
       },
       {
@@ -558,8 +525,7 @@
           }
         ],
         "leagueRewards": {
-          "0.1": [],
-          "0.2": []
+          "0-4": []
         }
       },
       {
@@ -572,8 +538,7 @@
           }
         ],
         "leagueRewards": {
-          "0.1": [],
-          "0.2": []
+          "0-4": []
         }
       },
       {
@@ -586,8 +551,7 @@
           }
         ],
         "leagueRewards": {
-          "0.1": [],
-          "0.2": []
+          "0-4": []
         }
       },
       {
@@ -600,8 +564,7 @@
           }
         ],
         "leagueRewards": {
-          "0.1": [],
-          "0.2": []
+          "0-4": []
         }
       },
       {
@@ -618,8 +581,7 @@
           }
         ],
         "leagueRewards": {
-          "0.1": [],
-          "0.2": []
+          "0-4": []
         }
       },
       {
@@ -632,8 +594,7 @@
           }
         ],
         "leagueRewards": {
-          "0.1": [],
-          "0.2": []
+          "0-4": []
         }
       },
       {
@@ -646,8 +607,7 @@
           }
         ],
         "leagueRewards": {
-          "0.1": [],
-          "0.2": []
+          "0-4": []
         }
       },
       {
@@ -660,8 +620,7 @@
           }
         ],
         "leagueRewards": {
-          "0.1": [],
-          "0.2": []
+          "0-4": []
         }
       }
     ]
@@ -670,7 +629,7 @@
     "id": 3,
     "title": "Act 3",
     "subtitle": "Keth / Utzaal",
-    "note": "อ้างอิงจาก Mobalytics Campaign Loot Normal",
+    "note": "Source: Mobalytics Campaign Loot Normal",
     "rows": [
       {
         "area": "Sandswept Marsh",
@@ -682,8 +641,7 @@
           }
         ],
         "leagueRewards": {
-          "0.1": [],
-          "0.2": []
+          "0-4": []
         }
       },
       {
@@ -696,8 +654,7 @@
           }
         ],
         "leagueRewards": {
-          "0.1": [],
-          "0.2": []
+          "0-4": []
         }
       },
       {
@@ -710,8 +667,7 @@
           }
         ],
         "leagueRewards": {
-          "0.1": [],
-          "0.2": []
+          "0-4": []
         }
       },
       {
@@ -724,8 +680,7 @@
           }
         ],
         "leagueRewards": {
-          "0.1": [],
-          "0.2": []
+          "0-4": []
         }
       },
       {
@@ -750,8 +705,7 @@
           }
         ],
         "leagueRewards": {
-          "0.1": [],
-          "0.2": []
+          "0-4": []
         }
       },
       {
@@ -764,8 +718,7 @@
           }
         ],
         "leagueRewards": {
-          "0.1": [],
-          "0.2": []
+          "0-4": []
         }
       },
       {
@@ -782,8 +735,7 @@
           }
         ],
         "leagueRewards": {
-          "0.1": [],
-          "0.2": []
+          "0-4": []
         }
       },
       {
@@ -796,8 +748,7 @@
           }
         ],
         "leagueRewards": {
-          "0.1": [],
-          "0.2": []
+          "0-4": []
         }
       },
       {
@@ -810,8 +761,7 @@
           }
         ],
         "leagueRewards": {
-          "0.1": [],
-          "0.2": []
+          "0-4": []
         }
       },
       {
@@ -824,8 +774,7 @@
           }
         ],
         "leagueRewards": {
-          "0.1": [],
-          "0.2": []
+          "0-4": []
         }
       },
       {
@@ -846,8 +795,7 @@
           }
         ],
         "leagueRewards": {
-          "0.1": [],
-          "0.2": []
+          "0-4": []
         }
       },
       {
@@ -860,8 +808,7 @@
           }
         ],
         "leagueRewards": {
-          "0.1": [],
-          "0.2": []
+          "0-4": []
         }
       },
       {
@@ -874,8 +821,7 @@
           }
         ],
         "leagueRewards": {
-          "0.1": [],
-          "0.2": []
+          "0-4": []
         }
       },
       {
@@ -896,8 +842,7 @@
           }
         ],
         "leagueRewards": {
-          "0.1": [],
-          "0.2": []
+          "0-4": []
         }
       },
       {
@@ -910,8 +855,7 @@
           }
         ],
         "leagueRewards": {
-          "0.1": [],
-          "0.2": []
+          "0-4": []
         }
       }
     ]
@@ -920,7 +864,7 @@
     "id": 4,
     "title": "Act 4",
     "subtitle": "Placeholder",
-    "note": "รอคุณเติมข้อมูลภายหลัง",
+    "note": "Waiting for future updates",
     "rows": [
       {
         "area": "Coming Soon",
@@ -928,12 +872,11 @@
         "rewards": [
           {
             "img": "",
-            "label": "เตรียมเพิ่มข้อมูล Act 4"
+            "label": "Preparing data for Act 4"
           }
         ],
         "leagueRewards": {
-          "0.1": [],
-          "0.2": []
+          "0-4": []
         }
       }
     ]
@@ -942,7 +885,7 @@
     "id": 5,
     "title": "Act 5",
     "subtitle": "Placeholder",
-    "note": "รอคุณเติมข้อมูลภายหลัง",
+    "note": "Waiting for future updates",
     "rows": [
       {
         "area": "Coming Soon",
@@ -950,12 +893,11 @@
         "rewards": [
           {
             "img": "",
-            "label": "เตรียมเพิ่มข้อมูล Act 5"
+            "label": "Preparing data for Act 5"
           }
         ],
         "leagueRewards": {
-          "0.1": [],
-          "0.2": []
+          "0-4": []
         }
       }
     ]
@@ -964,7 +906,7 @@
     "id": 6,
     "title": "Act 6",
     "subtitle": "Placeholder",
-    "note": "รอคุณเติมข้อมูลภายหลัง",
+    "note": "Waiting for future updates",
     "rows": [
       {
         "area": "Coming Soon",
@@ -972,12 +914,11 @@
         "rewards": [
           {
             "img": "",
-            "label": "เตรียมเพิ่มข้อมูล Act 6"
+            "label": "Preparing data for Act 6"
           }
         ],
         "leagueRewards": {
-          "0.1": [],
-          "0.2": []
+          "0-4": []
         }
       }
     ]
