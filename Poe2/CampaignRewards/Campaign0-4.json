@@ -953,7 +953,7 @@
           {
             "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSkillGem.webp?raw=true",
             "label": "หินสกิลหยาบ (เลเวล 12)",
-            "color": "#ffffff"
+            "color": "#a3a3a3"
           }
         ],
         "leagueRewards": {}
@@ -989,17 +989,17 @@
           {
             "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Currency/Tattoos/TattooDex01.webp?raw=true",
             "label": "Dexterity +5 หรือ ค่าต้านทาน สายฟ้า +5%",
-            "color": "#00e2e6"
+            "color": "#f74a4a"
           },
           {
             "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Currency/Tattoos/TattooInt01.webp?raw=true",
             "label": "Intelligence +5 หรือ ค่าต้านทาน น้ำแข็ง +5%",
-            "color": "#00e2e6"
+            "color": "#f74a4a"
           },
           {
             "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Currency/Tattoos/TattooStr01.webp?raw=true",
             "label": "Strength +5 หรือ ค่าต้านทาน ไฟ +5%",
-            "color": "#00e2e6"
+            "color": "#f74a4a"
           }
         ],
         "leagueRewards": {}
@@ -1023,12 +1023,12 @@
           {
             "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/QuestItems/MedallionCombined.webp?raw=true",
             "label": "เพิ่มการ เติมพลังชีวิต จากขวดยา 30% หรือ",
-            "color": "#00e2e6"
+            "color": "#a3a3a3"
           },
           {
             "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/QuestItems/MedallionCombined.webp?raw=true",
             "label": "เพิ่มการ เติมมานา จากขวดยา 30%",
-            "color": "#00e2e6"
+            "color": "#a3a3a3"
           }
         ],
         "leagueRewards": {}
@@ -1052,17 +1052,17 @@
           {
             "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSupportGem.webp?raw=true",
             "label": "หินเสริมหยาบ (เลเวล 4) เลือกได้ 1 อย่าง",
-            "color": "#00e2e6"
+            "color": "#a3a3a3"
           },
           {
             "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSkillGem.webp?raw=true",
             "label": "หินสกิลหยาบ (เลเวล 12)",
-            "color": "#00e2e6"
+            "color": "#a3a3a3"
           },
           {
             "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSkillGemBuff.webp?raw=true",
             "label": "หินวิญญาณ (เลเวล 12)",
-            "color": "#00e2e6"
+            "color": "#a3a3a3"
           }
         ],
         "leagueRewards": {}
@@ -1074,7 +1074,7 @@
           {
             "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Amulets/Basetypes/PearlescentAmulet.webp?raw=true",
             "label": "สร้อยต้านธาตุ ทุกธาตุ",
-            "color": "#00e2e6"
+            "color": "#f74a4a"
           }
         ],
         "leagueRewards": {}
