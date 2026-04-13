@@ -487,7 +487,7 @@
         "rewards": [
           {
             "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSkillGem.webp?raw=true",
-            "label": "หินเสริมหยาบ (เลเวล 6)"
+            "label": "หินสกิลหยาบ (เลเวล 6)"
           }
         ],
         "leagueRewards": {
@@ -752,6 +752,9 @@
         ],
         "leagueRewards": {
           "0-4": []
+        },
+        "preview": {
+          "youtube": "https://www.youtube.com/watch?v=CIgGpxJG6mE"
         }
       },
       {
@@ -819,11 +822,14 @@
         "rewards": [
           {
             "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSkillGem.webp?raw=true",
-            "label": "หินเสริมหยาบ (เลเวล 9)"
+            "label": "หินสกิลหยาบ (เลเวล 9)"
           }
         ],
         "leagueRewards": {
           "0-4": []
+        },
+        "preview": {
+          "youtube": "https://www.youtube.com/watch?v=krUjRw5tPfg"
         }
       },
       {
@@ -838,6 +844,9 @@
         ],
         "leagueRewards": {
           "0-4": []
+        },
+        "preview": {
+          "youtube": "https://www.youtube.com/watch?v=z58zag4uOcI"
         }
       },
       {
@@ -852,6 +861,9 @@
         ],
         "leagueRewards": {
           "0-4": []
+        },
+        "preview": {
+          "youtube": "https://www.youtube.com/watch?v=gR9_dedbkAU"
         }
       },
       {
@@ -865,6 +877,9 @@
         ],
         "leagueRewards": {
           "0-4": []
+        },
+        "preview": {
+          "youtube": "https://www.youtube.com/watch?v=gnSFpn1pS_c"
         }
       },
       {
@@ -890,6 +905,9 @@
         ],
         "leagueRewards": {
           "0-4": []
+        },
+        "preview": {
+          "youtube": "https://www.youtube.com/watch?v=e7eDIoaJLZg"
         }
       },
       {
@@ -904,6 +922,9 @@
         ],
         "leagueRewards": {
           "0-4": []
+        },
+        "preview": {
+          "youtube": "https://www.youtube.com/watch?v=a4_Z0FfwVjA"
         }
       },
       {
@@ -917,11 +938,14 @@
           },
           {
             "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSkillGem.webp?raw=true",
-            "label": "หินเสริมหยาบ (เลเวล 9)"
+            "label": "หินสกิลหยาบ (เลเวล 9)"
           }
         ],
         "leagueRewards": {
           "0-4": []
+        },
+        "preview": {
+          "youtube": "https://www.youtube.com/watch?v=Stn1Q0fAJXI"
         }
       },
       {
@@ -936,6 +960,9 @@
         ],
         "leagueRewards": {
           "0-4": []
+        },
+        "preview": {
+          "youtube": "https://www.youtube.com/watch?v=cUqUn6prRjM"
         }
       },
       {
@@ -943,12 +970,15 @@
         "check": "ซีคัวทัล ผู้พิทักษ์แกนวิญญาณ",
         "rewards": [
           {
-            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSkillGemBuff.webp?raw=true",
-            "label": "หินพลังวิญญาณหยาบ (เวล 10)"
+            "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/Gems/UncutSkillGem.webp",
+            "label": "หินสกิลหยาบ (เวล 10)"
           }
         ],
         "leagueRewards": {
           "0-4": []
+        },
+        "preview": {
+          "youtube": "https://www.youtube.com/watch?v=NmJkjGd0Mo4"
         }
       },
       {
@@ -962,6 +992,9 @@
         ],
         "leagueRewards": {
           "0-4": []
+        },
+        "preview": {
+          "youtube": "https://www.youtube.com/watch?v=Em5JUI2vgt8"
         }
       },
       {
@@ -970,7 +1003,7 @@
         "rewards": [
           {
             "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSkillGem.webp?raw=true",
-            "label": "หินเสริมหยาบ (เลเวล 10)"
+            "label": "หินสกิลหยาบ (เลเวล 10)"
           },
           {
             "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/QuestItems/RenlysTools.webp?raw=true",
@@ -984,6 +1017,9 @@
         ],
         "leagueRewards": {
           "0-4": []
+        },
+        "preview": {
+          "youtube": "https://www.youtube.com/watch?v=1_mbtaSSUNU"
         }
       },
       {
@@ -992,11 +1028,14 @@
         "rewards": [
           {
             "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSkillGem.webp?raw=true",
-            "label": "หินเสริมหยาบ (เลเวล 11)"
+            "label": "หินสกิลหยาบ (เลเวล 11)"
           }
         ],
         "leagueRewards": {
           "0-4": []
+        },
+        "preview": {
+          "youtube": "https://www.youtube.com/watch?v=WrNCIEoOTcY"
         }
       },
       {
@@ -1007,10 +1046,18 @@
             "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSupportGem.webp?raw=true",
             "label": "หินเสริมหยาบ (เลเวล 3)",
             "color": "#00e2e6"
+          },
+          {
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSkillGem.webp?raw=true",
+            "label": "หินสกิลหยาบ (เลเวล 11)",
+            "color": "#ffffff"
           }
         ],
         "leagueRewards": {
           "0-4": []
+        },
+        "preview": {
+          "youtube": "https://www.youtube.com/watch?v=BoK9c0WQ7T8"
         }
       },
       {
@@ -1046,6 +1093,9 @@
         ],
         "leagueRewards": {
           "0-4": []
+        },
+        "preview": {
+          "youtube": "https://www.youtube.com/watch?v=RW0F_lxW5vw"
         }
       }
     ]
