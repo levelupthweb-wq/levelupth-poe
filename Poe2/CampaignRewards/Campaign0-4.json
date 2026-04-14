@@ -516,7 +516,13 @@
           }
         ],
         "leagueRewards": {
-          "0-4": []
+          "0-4": [
+            {
+              "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Currency/CurrencyAddModToRare.webp?raw=true",
+              "label": "Exalted Orb",
+              "color": "#fde68a"
+            }
+          ]
         },
         "preview": {
           "youtube": "https://www.youtube.com/watch?v=WhWkPkGcwaI"
@@ -565,7 +571,13 @@
           }
         ],
         "leagueRewards": {
-          "0-4": []
+          "0-4": [
+            {
+              "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSupportGem.webp?raw=true",
+              "label": "หินเสริมหยาบ (เลเวล 2)",
+              "color": "#fde68a"
+            }
+          ]
         },
         "preview": {
           "youtube": "https://www.youtube.com/watch?v=Su7WvTY1GJ0"
@@ -582,7 +594,13 @@
           }
         ],
         "leagueRewards": {
-          "0-4": []
+          "0-4": [
+            {
+              "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/Currency/CurrencyAddEquipmentSocket.webp",
+              "label": "Artificer's Orb",
+              "color": "#fde68a"
+            }
+          ]
         },
         "preview": {
           "youtube": "https://www.youtube.com/watch?v=canw1Q3nbDw"
@@ -602,6 +620,20 @@
         },
         "preview": {
           "youtube": "https://www.youtube.com/watch?v=cFNdXgOk_xE"
+        }
+      },
+      {
+        "area": "ประตูฮาลานี",
+        "check": "",
+        "rewards": [],
+        "leagueRewards": {
+          "0-4": [
+            {
+              "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Currency/CurrencyAddModToRare.webp?raw=true",
+              "label": "Exalted Orb",
+              "color": "#fde68a"
+            }
+          ]
         }
       },
       {
@@ -631,7 +663,13 @@
           }
         ],
         "leagueRewards": {
-          "0-4": []
+          "0-4": [
+            {
+              "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Currency/CurrencyGemQuality.webp?raw=true",
+              "label": "Gemcutter's Prism",
+              "color": "#fde68a"
+            }
+          ]
         },
         "preview": {
           "youtube": "https://www.youtube.com/watch?v=fuRjtdGNuC4"
@@ -647,7 +685,13 @@
           }
         ],
         "leagueRewards": {
-          "0-4": []
+          "0-4": [
+            {
+              "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Currency/CurrencyUpgradeToRare.webp?raw=true",
+              "label": "Orb of Alchemy",
+              "color": "#fde68a"
+            }
+          ]
         },
         "preview": {
           "youtube": "https://www.youtube.com/watch?v=4S_RtebvKjo"
@@ -680,7 +724,13 @@
           }
         ],
         "leagueRewards": {
-          "0-4": []
+          "0-4": [
+            {
+              "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Currency/CurrencyRerollSocketNumbers01.webp?raw=true",
+              "label": "Jeweller's Orb ชั้นต่ำ",
+              "color": "#fde68a"
+            }
+          ]
         },
         "preview": {
           "youtube": "https://www.youtube.com/watch?v=aWUbfncxwOY"
@@ -741,7 +791,13 @@
           }
         ],
         "leagueRewards": {
-          "0-4": []
+          "0-4": [
+            {
+              "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Belts/Uniques/CowardsLegacy.webp?raw=true",
+              "label": "Unique Item",
+              "color": "#fde68a"
+            }
+          ]
         },
         "preview": {
           "youtube": "https://www.youtube.com/watch?v=M5KHZgH482k"
@@ -758,7 +814,13 @@
           }
         ],
         "leagueRewards": {
-          "0-4": []
+          "0-4": [
+            {
+              "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Currency/CurrencyUpgradeToUniqueShard.webp?raw=true",
+              "label": "เศษ Chance",
+              "color": "#fde68a"
+            }
+          ]
         },
         "preview": {
           "youtube": "https://www.youtube.com/watch?v=q3FMq60W_s8"
@@ -791,7 +853,13 @@
           }
         ],
         "leagueRewards": {
-          "0-4": []
+          "0-4": [
+            {
+              "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Currency/CurrencyUpgradeMagicToRare.webp?raw=true",
+              "label": "Regal Orb",
+              "color": "#fde68a"
+            }
+          ]
         },
         "preview": {
           "youtube": "https://www.youtube.com/watch?v=Y0dd-dHGY2k"
@@ -808,7 +876,13 @@
           }
         ],
         "leagueRewards": {
-          "0-4": []
+          "0-4": [
+            {
+              "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Currency/CurrencyAddModToRare.webp?raw=true",
+              "label": "Exalted Orb",
+              "color": "#fde68a"
+            }
+          ]
         },
         "preview": {
           "youtube": "https://www.youtube.com/watch?v=KeqocB_emig"
@@ -876,7 +950,13 @@
           }
         ],
         "leagueRewards": {
-          "0-4": []
+          "0-4": [
+            {
+              "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Currency/CurrencyGemQuality.webp?raw=true",
+              "label": "Gemcutter's Prism",
+              "color": "#fde68a"
+            }
+          ]
         },
         "preview": {
           "youtube": "https://www.youtube.com/watch?v=GHjTRjO8Wv8"
