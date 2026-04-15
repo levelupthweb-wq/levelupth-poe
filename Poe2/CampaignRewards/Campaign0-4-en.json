@@ -1331,7 +1331,7 @@
     "note": "",
     "rows": [
       {
-        "area": "The Murky Mist",
+        "area": "Journey's End",
         "check": "Defeat Captain Heartlin ",
         "rewards": [
           {
@@ -1356,7 +1356,7 @@
       },
       {
         "area": "Isle of Kin",
-        "check": "คอกสัตว์ร้าย",
+        "check": "Beast Pen",
         "rewards": [
           {
             "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSupportGem.webp?raw=true",
@@ -1376,7 +1376,7 @@
       },
       {
         "area": "Isle of Kin",
-        "check": "Ruined Mine",
+        "check": "Doomed Mine",
         "rewards": [
           {
             "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/Currency/CurrencyRerollSocketNumbers01.webp",
@@ -1390,7 +1390,7 @@
       },
       {
         "area": "Isle of Kin",
-        "check": "BOSS - สัตว์ร้ายตาบอด",
+        "check": "BOSS - The Blind Beast",
         "rewards": [
           {
             "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/Currency/Runes/EnhanceRuneTier2.webp",
@@ -1401,7 +1401,7 @@
         "leagueRewards": {}
       },
       {
-        "area": "Volcanic Hollow",
+        "area": "Volcanic Warrens",
         "check": "",
         "rewards": [],
         "leagueRewards": {
@@ -1429,7 +1429,7 @@
         }
       },
       {
-        "area": "Dead End",
+        "area": "Journey's End",
         "check": "",
         "rewards": [],
         "leagueRewards": {
@@ -1443,7 +1443,7 @@
         }
       },
       {
-        "area": "Isle of Shrike",
+        "area": "Shrike Island",
         "check": "BOSS - Calamity of the Skies",
         "rewards": [
           {
@@ -1464,11 +1464,11 @@
       },
       {
         "area": "Eye of Hinekora",
-        "check": "Navali's Dwelling (Click well)",
+        "check": "Navali's Rest (Click well)",
         "rewards": [
           {
             "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Currency/Tattoos/NavaliSilverCoin.webp?raw=true",
-            "label": "5% increased maximum Mana",
+            "label": "3% increased Maximum Mana",
             "color": "#00e2e6"
           }
         ],
@@ -1506,7 +1506,7 @@
       },
       {
         "area": "Hall of the Dead",
-        "check": "BOSS - White Ape แล้วGive coin to Mother Hinekora",
+        "check": "BOSS - Yama The White (Give coin to Mother Hinekora)",
         "rewards": [
           {
             "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Currency/Tattoos/TattooNoteable01.webp?raw=true",
@@ -1542,7 +1542,7 @@
         }
       },
       {
-        "area": "Isle of Fakapanu",
+        "area": "Whakapanu Island",
         "check": "Defeat Terror Crab",
         "rewards": [
           {
@@ -1554,8 +1554,8 @@
         "leagueRewards": {}
       },
       {
-        "area": "Isle of Fakapanu",
-        "check": "BOSS - The Great White Shark",
+        "area": "Whakapanu Island",
+        "check": "BOSS - Great White One",
         "rewards": [
           {
             "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSupportGem.webp?raw=true",
@@ -1576,12 +1576,12 @@
         "leagueRewards": {}
       },
       {
-        "area": "Singing Caves",
+        "area": "Singing Caverns",
         "check": "Inviting Pearl",
         "rewards": [
           {
             "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Amulets/Basetypes/PearlescentAmulet.webp?raw=true",
-            "label": "สร้อยต้านธาตุ ทุกธาตุ",
+            "label": "All Elemental Resistances Amulet",
             "color": "#f74a4a"
           }
         ],
@@ -1621,7 +1621,7 @@
         }
       },
       {
-        "area": "Nakanu",
+        "area": "Ngakahu",
         "check": "",
         "rewards": [],
         "leagueRewards": {
@@ -1692,7 +1692,7 @@
         "rewards": [
           {
             "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/QuestItems/SoulCore.webp?raw=true",
-            "label": "เพิ่มMaximum Lifeสูงสุด 5%",
+            "label": "5% increased Maximum Life",
             "color": "#f74a4a"
           }
         ],
@@ -1704,7 +1704,7 @@
         "rewards": [
           {
             "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/QuestItems/WorldMapContentSevenSekhemasInactive.webp",
-            "label": "เลือกบัฟได้ 1 อย่าง",
+            "label": "Select 1 Buff",
             "color": "#f74a4a"
           },
           {
@@ -1714,32 +1714,32 @@
           },
           {
             "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/QuestItems/WorldMapContentSevenSekhemasActive.webp",
-            "label": "เพิ่มความเร็วในการเคลื่อนที่ 3%",
+            "label": "3% increased Movement Speed",
             "color": "#e0861f"
           },
           {
             "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/QuestItems/WorldMapContentSevenSekhemasActive.webp",
-            "label": "เพิ่มค่าป้องกัน ของตัวละคร 15%",
+            "label": "15% increased Character Defenses",
             "color": "#e0861f"
           },
           {
             "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/QuestItems/WorldMapContentSevenSekhemasActive.webp",
-            "label": "เพิ่มพื้นที่ส่งผลของ ระยะปรากฏกาย 20%",
+            "label": "20% increased Presence Area",
             "color": "#e0861f"
           },
           {
             "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/QuestItems/WorldMapContentSevenSekhemasActive.webp",
-            "label": "เพิ่มความเร็วในการฟื้นฟูคูลดาวน์ 12%",
+            "label": "12% increased Cooldown Recovery Rate",
             "color": "#e0861f"
           },
           {
             "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/QuestItems/WorldMapContentSevenSekhemasActive.webp",
-            "label": "+5 ค่าคุณสมบัติall types",
+            "label": "+5 to All Attributes",
             "color": "#e0861f"
           },
           {
             "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/QuestItems/WorldMapContentSevenSekhemasActive.webp",
-            "label": "เพิ่มค่าประสบการณ์ที่ได้รับ 5% (ลดความเร็วในการเคลื่อนที่ 3% All Elemental Resistances -5% ลดพื้นที่ส่งผลของ ระยะปรากฏกาย 20% ลดค่าคุณสมบัติ 5% ลดค่าป้องกัน ของตัวละคร 15% ลดความเร็วในการฟื้นฟูคูลดาวน์ 12%)",
+            "label": "5% increased Experience Gained (-3% Movement Speed, -5% All Res, -20% Presence Area, -5 to all Attributes, -15% Defenses, -12% Cooldown Recovery)",
             "color": "#e0861f"
           }
         ],
@@ -1751,7 +1751,7 @@
         "rewards": [
           {
             "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Currency/CurrencyAddModToRare.webp?raw=true",
-            "label": "สุ่มเงินตราที่ได้",
+            "label": "Random Currency Rewards",
             "color": "#8280ff"
           }
         ],
@@ -1807,7 +1807,7 @@
         "rewards": [
           {
             "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Armours/Gloves/Uniques/Gravebind.webp?raw=true",
-            "label": "Unique Item Random (เลือกได้ 1 pcs)",
+            "label": "Unique Item Random (Select 1)",
             "color": "#db8b00"
           }
         ],
