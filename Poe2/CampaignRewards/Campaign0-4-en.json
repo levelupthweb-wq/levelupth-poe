@@ -1183,7 +1183,7 @@
       },
       {
         "area": "The Drenched City",
-        "check": "",
+        "check": "BOSS - Filthy First-born",
         "rewards": [],
         "leagueRewards": {
           "0-4": [
@@ -1232,6 +1232,26 @@
         },
         "preview": {
           "youtube": "https://www.youtube.com/watch?v=1_mbtaSSUNU"
+        }
+      },
+      {
+        "area": "Apex of Filth",
+        "check": "BOSS - The Queen of Filth",
+        "rewards": [
+          {
+            "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/QuestItems/SoulCore.webp",
+            "label": "Bubbling Respite (+15% Global Defences)",
+            "color": "#f74a4a"
+          }
+        ],
+        "leagueRewards": {
+          "0-4": [
+            {
+              "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Currency/CurrencyUpgradeMagicToRare.webp?raw=true",
+              "label": "Regal Orb",
+              "color": "#fde68a"
+            }
+          ]
         }
       },
       {
@@ -1320,6 +1340,14 @@
         },
         "preview": {
           "youtube": "https://www.youtube.com/watch?v=RW0F_lxW5vw"
+        }
+      },
+      {
+        "area": "The Black Chambers",
+        "check": "ACT BOSS - Doryani, Royal Thaumaturge",
+        "rewards": [],
+        "leagueRewards": {
+          "0-4": []
         }
       }
     ]
