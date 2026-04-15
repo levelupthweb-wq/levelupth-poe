@@ -7,7 +7,7 @@
     "rows": [
       {
         "area": "The Riverbank",
-        "check": "Slay The Bloated Miller",
+        "check": "Defeat The Bloated Miller",
         "rewards": [
           {
             "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/Gems/UncutSkillGem.webp",
@@ -24,7 +24,7 @@
       },
       {
         "area": "Clearfell",
-        "check": "Slay Beira of the Rotten Pack",
+        "check": "Defeat Beira of the Rotten Pack",
         "rewards": [
           {
             "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/QuestItems/CroneWolfHead.webp",
@@ -63,7 +63,7 @@
       },
       {
         "area": "Mud Burrow",
-        "check": "Slay The Devourer",
+        "check": "Defeat The Devourer",
         "rewards": [
           {
             "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSkillGem.webp?raw=true",
@@ -116,7 +116,7 @@
       },
       {
         "area": "The Grelwood",
-        "check": "Find Witch Hut / Slay Areagne, Forgotten Witch",
+        "check": "Find Witch Hut / Defeat Areagne, Forgotten Witch",
         "rewards": [
           {
             "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/Flasks/Basetypes/FlaskLife02.webp",
@@ -301,7 +301,7 @@
       },
       {
         "area": "Hunting Grounds",
-        "check": "Slay - Dryadic Ritual",
+        "check": "Defeat - Dryadic Ritual",
         "rewards": [
           {
             "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSupportGem.webp?raw=true",
@@ -1151,7 +1151,7 @@
       },
       {
         "area": "Jiquani's Sanctum",
-        "check": "Sekhema, Guardian of the Soul Core",
+        "check": "ซีคัวทัล ผู้พิทักษ์แกนวิญญาณ",
         "rewards": [
           {
             "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/Gems/UncutSkillGem.webp",
@@ -1171,7 +1171,7 @@
         "rewards": [
           {
             "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/QuestItems/LipDisk.webp",
-            "label": "Vaal Item Altar"
+            "label": "แท่น VAAL ไอเทม"
           }
         ],
         "leagueRewards": {
@@ -1332,7 +1332,7 @@
     "rows": [
       {
         "area": "The Murky Mist",
-        "check": "Slay Captain Heartlin / ใช้เหล็กแหลมสลักเวรีเซียมปลดปล่อยFreya",
+        "check": "Defeat Captain Heartlin ",
         "rewards": [
           {
             "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/QuestItems/Skillbooks/BileSoakedTome.webp?raw=true",
@@ -1543,7 +1543,7 @@
       },
       {
         "area": "Isle of Fakapanu",
-        "check": "Slay Terror Crab",
+        "check": "Defeat Terror Crab",
         "rewards": [
           {
             "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSupportGem.webp?raw=true",
