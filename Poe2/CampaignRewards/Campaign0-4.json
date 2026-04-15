@@ -1338,6 +1338,16 @@
             "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/QuestItems/Skillbooks/BileSoakedTome.webp?raw=true",
             "label": "แต้มพาสซีฟชุดอาวุธ 2 แต้ม",
             "color": "#00f028"
+          },
+          {
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSkillGem.webp?raw=true",
+            "label": "หินสกิลหยาบ (เลเวล 13)",
+            "color": "#ffffff"
+          },
+          {
+            "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/Currency/DistilledEmotions/DistilledIre.webp",
+            "label": "Diluted Liquid แบบสุ่ม 5-6  ชิ้น",
+            "color": "#ffffff"
           }
         ],
         "leagueRewards": {
