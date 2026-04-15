@@ -1464,11 +1464,11 @@
       },
       {
         "area": "Eye of Hinekora",
-        "check": "Navali's Rest (Click well)",
+        "check": "Navali's Rest",
         "rewards": [
           {
             "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Currency/Tattoos/NavaliSilverCoin.webp?raw=true",
-            "label": "3% increased Maximum Mana",
+            "label": "5% increased Maximum Mana",
             "color": "#00e2e6"
           }
         ],
@@ -1506,7 +1506,7 @@
       },
       {
         "area": "Hall of the Dead",
-        "check": "BOSS - Yama The White (Give coin to Mother Hinekora)",
+        "check": "BOSS - Yama The White (Give coin to Hinekora)",
         "rewards": [
           {
             "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Currency/Tattoos/TattooNoteable01.webp?raw=true",
@@ -1577,7 +1577,7 @@
       },
       {
         "area": "Singing Caverns",
-        "check": "Inviting Pearl",
+        "check": "Beckoning Clam",
         "rewards": [
           {
             "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Amulets/Basetypes/PearlescentAmulet.webp?raw=true",
@@ -1655,8 +1655,8 @@
         "leagueRewards": {}
       },
       {
-        "area": "Wolf Prison",
-        "check": "BOSS - Oswin, the Dread Jailer",
+        "area": "Wolvenhold",
+        "check": "BOSS - Oswin, the Dread Warden",
         "rewards": [
           {
             "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/QuestItems/Skillbooks/BileSoakedTome.webp?raw=true",
@@ -1704,42 +1704,42 @@
         "rewards": [
           {
             "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/QuestItems/WorldMapContentSevenSekhemasInactive.webp",
-            "label": "Select 1 Buff",
+            "label": "Select 1 Pillar Buff",
             "color": "#f74a4a"
           },
           {
             "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/QuestItems/WorldMapContentSevenSekhemasActive.webp",
-            "label": "All Elemental Resistances +5%",
+            "label": "Tahar's Pillar (+5% to all Elemental Resistances)",
             "color": "#db8b00"
           },
           {
             "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/QuestItems/WorldMapContentSevenSekhemasActive.webp",
-            "label": "3% increased Movement Speed",
+            "label": "Orbala's Pillar (3% increased Movement Speed)",
             "color": "#e0861f"
           },
           {
             "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/QuestItems/WorldMapContentSevenSekhemasActive.webp",
-            "label": "15% increased Character Defenses",
+            "label": "Akod's Pillar (15% increased Global Defences)",
             "color": "#e0861f"
           },
           {
             "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/QuestItems/WorldMapContentSevenSekhemasActive.webp",
-            "label": "20% increased Presence Area",
+            "label": "Gakal's Pillar (20% increased Presence Area of Effect)",
             "color": "#e0861f"
           },
           {
             "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/QuestItems/WorldMapContentSevenSekhemasActive.webp",
-            "label": "12% increased Cooldown Recovery Rate",
+            "label": "Haian's Pillar (12% increased Cooldown Recovery Rate)",
             "color": "#e0861f"
           },
           {
             "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/QuestItems/WorldMapContentSevenSekhemasActive.webp",
-            "label": "+5 to All Attributes",
+            "label": "Kothar's Pillar (+5 to All Attributes)",
             "color": "#e0861f"
           },
           {
             "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/QuestItems/WorldMapContentSevenSekhemasActive.webp",
-            "label": "5% increased Experience Gained (-3% Movement Speed, -5% All Res, -20% Presence Area, -5 to all Attributes, -15% Defenses, -12% Cooldown Recovery)",
+            "label": "Alira's Pillar (5% Increased Experience Gain, -3% Speed, -5% Res, -20% Presence, -5 Attributes, -15% Defences, -12% Cooldown)",
             "color": "#e0861f"
           }
         ],
@@ -1767,7 +1767,7 @@
     "rows": [
       {
         "area": "Ashen Forest",
-        "check": "Ancient Memorial",
+        "check": "Ancient Monument",
         "rewards": [
           {
             "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSkillGem.webp?raw=true",
@@ -1779,7 +1779,7 @@
       },
       {
         "area": "Kriar Village",
-        "check": "BOSS - Laithra, the Renegade Spear",
+        "check": "BOSS - Lythara, the Wayward Spear",
         "rewards": [
           {
             "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/QuestItems/CrystalSkull_Spirit_02b.webp?raw=true",
